@@ -7,7 +7,7 @@ font-family: 'Itim', cursive;
 }
 
 .first-part{
-  background-image:url(../images/canva11.png);
+  background-image:url(canva11.png);
   background-position: center;
   background-size: cover;
   margin-bottom: 0%;
@@ -167,7 +167,7 @@ align-items: center;
 
 /* SECOND-BOX */
 .second-part, .fourth-part {
-  background-image: url(../images/canva2.png);
+  background-image: url(canva2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -204,7 +204,7 @@ color: rgb(10, 177, 10);
 }
 
 .third-part {
-  background-image: url(../images/canva11.png);
+  background-image: url(canva11.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -307,7 +307,7 @@ border-radius: 50%;
 }
 
 .footer {
-  background-image: url(../images/canva11.png);
+  background-image: url(canva11.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
