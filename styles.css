@@ -293,10 +293,9 @@ border-radius: 50%;
 .fourth-part h1{
   padding: 40px auto 0;
   text-align: left;
-  font-size: 40px;
+  font-size: 2.3rem;
   font-weight: bold;
-  line-height: 70px;
-  text-align: center;
+  line-height: 2.3rem;
 }
 .fourth-part .below-btn {
   text-align: right;
