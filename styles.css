@@ -291,16 +291,16 @@ border-radius: 50%;
 }
 
 .fourth-part h1{
-  padding-left: 90px;
-  padding-top: 40px;
+  padding: 40px auto 0;
   text-align: left;
   font-size: 40px;
   font-weight: bold;
   line-height: 70px;
+  text-align: center;
 }
 .fourth-part .below-btn {
   text-align: right;
-  margin-right: 110px;
+  margin-right: auto;
   padding-top: 50px;
   padding-bottom: 70px;
   margin-bottom: 0;
